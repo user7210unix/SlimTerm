@@ -1,5 +1,4 @@
 /* slimterm.c - A minimal X11 terminal emulator with Xft */
-/* License: MIT */
 
 #include <errno.h>
 #include <fcntl.h>
