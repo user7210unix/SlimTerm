@@ -1,5 +1,4 @@
 # slimterm - a minimal X11 terminal emulator
-# See LICENSE file for copyright and license details.
 .POSIX:
 
 include config.mk
